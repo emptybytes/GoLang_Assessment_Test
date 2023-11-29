@@ -1,0 +1,32 @@
+# Binaries
+/bin
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Dependency directories
+/vendor
+/go.sum
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Project-specific output files
+/product
+
+# Project-specific config file
+/config.json
+
+# VS Code directories
+.vscode
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
